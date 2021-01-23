@@ -1,16 +1,16 @@
-<img src="" alt"Image" style="width: 100%">
+<img src=https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg alt"Image" style="width: 100%">
 
-# TooDoo :list:
+# TooDoo    :books:
 Words! 
 
-## What it is :star:
+## What it is    :star:
 
 
-## How I built it :hammer:
+## How I built it    :hammer:
 
-## Motivation :lightbulb:
+## Motivation    :crown:
 
-## Tech/framework used
+## Tech/framework used.   
 
 <b>Built with</b>
 - [REACT](https://reactjs.org/)
