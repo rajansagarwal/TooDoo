@@ -1,15 +1,14 @@
 <img src="" alt"Image" style="width: 100%">
 
-# TooDoo :hammer: :list:
+# TooDoo :list:
 Words! 
 
-## Why I made it?
-Primarily, the goal is to use this app to track your thoughts with it prompting you and asking follow up questions to gain more information on your day. All of this data is kept encrypted on an azure datastore. You sign up anonymously while listing your interests to join circles with others who are anonymous. If the SA algorithm were to detect that your journal entries are depressive or indicate any presence of mental helath issues, you will automatically be redirected at random in a call with someone who is facing a similar issue or may have aligning interests. 
+## What it is :star:
 
-Following this, sentiment analysis would run on the discussion in live-time and provides questions to keep the conversation engaging and theraputic. If there are any extreme mental health issues being displayed, the algorithm will automatically notify a health-care professional to join the call. 
 
-## How I built it
-Sometimes, all you need is for someone to be there for you, yet in a world where isolation dictates our ability to ask for help, it becomes more and more important that you can get help who can empathize with you. By building closer circles through interests, journaling and wellness resources, all powered by our artifical intelligence systems that drive the experience forward, you can always look to Feather for reliable help. 
+## How I built it :hammer:
+
+## Motivation :lightbulb:
 
 ## Tech/framework used
 
